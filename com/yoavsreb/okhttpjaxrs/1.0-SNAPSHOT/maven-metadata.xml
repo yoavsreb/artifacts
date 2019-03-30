@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.yoavsreb</groupId>
+  <artifactId>okhttpjaxrs</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190330.004147</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190330004147</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20190330.004147-1</value>
+        <updated>20190330004147</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20190330.004147-1</value>
+        <updated>20190330004147</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
